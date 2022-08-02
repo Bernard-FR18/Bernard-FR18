@@ -1,6 +1,7 @@
 - 👋 Bonjour, Je suis @Bernard-FR18
 - 👀 Je suis interessé par le developpement d'une application pour entendre les chauves souris en direct sur mon smartphone
 - 🌱 Je vais m'inspirer du développement de "Haven"
-- 💞️ Le programme que je compte faire devra enregistrer le son pendant 0.1s, puis rejouer pendant 1 s en divisant la fréquence par 10.
-- Par la suite, j'enregistrerai sur demande
+- 💞️ Le programme que je compte faire devra enregistrer le son pendant 0.1s, puis rejouer pendant 1 s en divisant la fréquence par 10, puis recommencer indéfiniment.
+- Par la suite, j'enregistrerai sur demande.
+- j'ai déjà enregistré des séquences sur mon smartphone, mais je les transfère sous Windows, modifie la fréquence avec un utilitaire (Free Audio Editor), puis les rejoue, donc le microphone est suffisant pour les fréquences des chauves souris à l'enregistrement et ne nécessite pas de micro spécial (tel que "Modules ultrasoniques Echo Meter Touch")
 - 📫 vous pouvez me joindre par mail : bernard.rousse@free.fr
