@@ -1,0 +1,6 @@
+- 👋 Bonjour, Je suis @Bernard-FR18
+- 👀 Je suis interessé par le developpement d'une application pour entendre les chauves souris en direct sur mon smartphone
+- 🌱 Je vais m'inspirer du développement de "Haven"
+- 💞️ Le programme que je compte faire devra enregistrer le son pendant 0.1s, puis rejouer pendant 1 s en divisant la fréquence par 10.
+- Par la suite, j'enregistrerai sur demande
+- 📫 vous pouvez me joindre par mail : bernard.rousse@free.fr
